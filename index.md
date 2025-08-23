@@ -4,6 +4,7 @@ Welcome to the site.
 
 [[other]]
 
+[[link]]
 
 | 12  | 121 | 111 |
 | --- | --- | --- |
@@ -26,3 +27,5 @@ Welcome to the site.
 
 
 Text - again
+
+![biozenith_logo.png](app://f73fa24c1c9e7ece6f4667f9c7838fdae5f3/Users/lihengjun/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/Obsidian_Vault/50_Philately/Hangchow%20Cyclical%20Cancellations/news/attachments/biozenith_logo.png?1755977322369)
