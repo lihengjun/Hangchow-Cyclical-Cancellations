@@ -1,1 +1,0 @@
-![[biozenith_logo.png]]
