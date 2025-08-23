@@ -2,7 +2,7 @@
 
 Welcome to the site.
 
-[[其他页面]]
+[[other]]
 
 # 杭州城幹支戳蓃集
 

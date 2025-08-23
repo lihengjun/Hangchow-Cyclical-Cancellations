@@ -1,0 +1,14 @@
+# Jekyll 主题
+theme: jekyll-theme-cayman
+
+# 网站信息
+title: Hangchow Cyclical Cancellations
+description: 杭州城幹支戳蓃集
+author: lihengjun
+
+# 构建设置
+markdown: kramdown
+permalink: /:title/
+
+# 中文支持
+lang: zh-CN
