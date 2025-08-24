@@ -1,3 +1,6 @@
+filters:
+  and:
+    - file.inFolder("50_Philately/Hangchow Cyclical Cancellations")
 views:
   - type: table
     name: Table
